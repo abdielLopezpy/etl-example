@@ -1,0 +1,51 @@
+{
+  "name": "crm-etl",
+  "displayName": "CrmETL",
+  "description": "Sistema de ETL para sincronización de datos de CRM con API CRUD",
+  "version": "2.0.0",
+  "publisher": "equipo-desarrollo",
+  "license": "MIT",
+  "homepage": "https://github.com/tu-usuario/crm-etl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/crm-etl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/crm-etl/issues"
+  },
+  "author": {
+    "name": "Equipo de Desarrollo",
+    "email": "desarrollo@empresa.com"
+  },
+  "contributors": [
+    {
+      "name": "Desarrollador Principal",
+      "email": "dev@empresa.com"
+    }
+  ],
+  "keywords": [
+    "crm",
+    "etl",
+    "hubspot",
+    "api",
+    "crud",
+    "typescript",
+    "express",
+    "sqlite",
+    "backend",
+    "microservice"
+  ],
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "os": [
+    "darwin",
+    "linux", 
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ]
+}
